@@ -15,7 +15,7 @@ class user
         this.ID = IDcount;
         IDcount++;
     }
-
+    
     public string getName()//gets user name
     {
         return this.name;
